@@ -10,5 +10,8 @@ import AsyncThunkDemo from "./src/screens/AsyncThunkDemo";
 export default function App() {
   return (
    <AsyncThunkDemo/>
+  //  <Provider store={store}>
+  //     <CounterScreen />
+  //   </Provider>
   );
 }
